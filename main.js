@@ -1,3 +1,4 @@
+
 const productos = [
   { nombre: "Camiseta", precio: 20 },
   { nombre: "Pantalón", precio: 35 },
