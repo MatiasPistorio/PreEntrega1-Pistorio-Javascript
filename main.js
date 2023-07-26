@@ -1,3 +1,4 @@
+
 const productos = [
     { nombre: "Producto 1", precio: 10 },
     { nombre: "Producto 2", precio: 15 },
